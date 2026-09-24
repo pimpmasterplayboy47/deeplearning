@@ -2,8 +2,6 @@
 NumPy-only deep learning model with manual forward propagation,
 backward propagation, and SGD optimization.
 
-Run:
-    python outputs/numpy_mlp_from_scratch.py
 
 No PyTorch, TensorFlow, autograd, or external ML libraries are used.
 """
