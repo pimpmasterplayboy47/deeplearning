@@ -1,4 +1,4 @@
-*GENERALIZED OUTPUTS
+# GENERALIZED OUTPUTS
 - Outputs are virtually different every single time
 - The code spits out something along these lines each time:
 
