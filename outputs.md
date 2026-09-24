@@ -1,6 +1,6 @@
 *GENERALIZED OUTPUTS
-- outputs are virtually different every single time
-- the code spits out something along these lines each time:
+- Outputs are virtually different every single time
+- The code spits out something along these lines each time:
 
 ```bash
 gradient check max relative error: 2.23e-09
