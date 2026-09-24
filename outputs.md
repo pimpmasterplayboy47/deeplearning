@@ -1,5 +1,6 @@
 # GENERALIZED OUTPUTS
 - Outputs are virtually different every single time so an outputs folder is redundent
+- May update in future to better visualize the outputs
 - The code spits out something along these lines each time:
 
 ```bash
